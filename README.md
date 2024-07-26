@@ -20,4 +20,3 @@ If no load params take video input value by default
 $ python3 sample_img.py --[params] 
 ```
 If no load params take Image by default # Visually-impared
-# Visually-impared
